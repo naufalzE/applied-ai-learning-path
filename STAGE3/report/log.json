@@ -1,0 +1,9 @@
+{
+  "status": "sukses",
+  "hasil": {
+    "sentiment": "positif",
+    "score": 10
+  },
+  "retry_count": 0,
+  "alasan": null
+}

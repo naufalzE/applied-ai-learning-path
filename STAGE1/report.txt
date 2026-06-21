@@ -1,0 +1,9 @@
+Andi : 80
+Budi : 90
+Citra : 75
+Dodi : 85
+Eka : 95
+total_nilai : 425
+rata_rata : 85.0
+nilai tertinggi : 75
+nilai terendah : 95

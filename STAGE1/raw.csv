@@ -1,0 +1,6 @@
+ID,Nama UMKM,Jumlah Pengajuan,Credit Score,Status Pinjaman Sebelumnya
+UMKM-01,Toko Berkah,"Rp 15.000.000",85,Aktif
+UMKM-02,Warung Sejahtera,"Rp 45.000.000",45,Aktif
+UMKM-03,Cuci Steam Kilat,N/A,90,Macet
+UMKM-04,Bakso Sukses,"Rp 25.000.000",72,Aktif
+UMKM-05,Cafe Hits,"Rp 120.000.000",30,Macet
